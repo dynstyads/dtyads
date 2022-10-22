@@ -2967,3 +2967,7 @@ body.dark,
 .rtl .grad-hover::before {
     background: linear-gradient(135deg, #E0040B 0%, #fc5130 100%);
 }
+
+#paidadvert {
+    align-items: center;
+}
