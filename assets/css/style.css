@@ -294,7 +294,6 @@ img {
     display: inline-block;
     font-size: 56px;
     font-weight: 700;
-    text-transform: lowercase;
     line-height: 1em;
     letter-spacing: -1.6px;
 }
@@ -1526,7 +1525,6 @@ body.dark,
 .single-promo h3 {
     font-size: 55px;
     font-weight: 700;
-    text-transform: lowercase;
     line-height: 0.9em;
     letter-spacing: -1.6px;
 }
@@ -2966,4 +2964,8 @@ body.dark,
 .rtl .bg-overlay::after,
 .rtl .grad-hover::before {
     background: linear-gradient(135deg, #E0040B 0%, #fc5130 100%);
+}
+
+#paidadvert {
+    align-items: center;
 }
