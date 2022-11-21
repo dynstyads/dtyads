@@ -605,7 +605,7 @@ img {
 }
 
 .color-3 {
-    color: #fc573b;
+    color: black;
 }
 
 .color-4 {
@@ -632,7 +632,7 @@ img {
 
 .color-3.bg-hover:hover::after,
 .color-3.bg-hover.active::after {
-    background-color: #fc573b;
+    background-color: gray;
 }
 
 .color-4.bg-hover:hover::after,
@@ -1405,11 +1405,11 @@ header {
 .homepage-3 .btn.btn-bordered-white::after,
 .homepage-3 .bg-overlay::after,
 .homepage-3 .grad-hover::before {
-    background: linear-gradient(135deg, #10054d 0%, #45108a 100%);
+    background: linear-gradient(135deg, #212529, #000000);
 }
 
 .homepage-3 .play-icon {
-    color: #45108a;
+    color: #2e2c30;
 }
 
 .homepage-3 .welcome-thumb-2 {
